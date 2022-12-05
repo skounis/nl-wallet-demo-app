@@ -39,10 +39,11 @@ const _kDuoOrganization = Organization(
 
 const _kEmployerOrganization = Organization(
   id: 'employer_1',
-  name: 'Werkgever X',
-  shortName: 'Werkgever X',
-  description: 'Werkgever X draagt bij aan een betere digitale overheid.',
-  logoUrl: 'assets/images/work_logo.png',
+  name: 'Werken voor Nederland',
+  shortName: 'Werken voor Nederland',
+  description:
+      'Werken voor Nederland (onderdeel van De Rijksoverheid) is één van de grootste werkgevers van ons land. De kans dat jij jouw baan bij de Rijksoverheid vindt is dan ook behoorlijk groot.',
+  logoUrl: 'assets/non-free/images/logo_rijksoverheid.png',
 );
 
 const _kJustisOrganization = Organization(
